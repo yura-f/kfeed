@@ -1,5 +1,5 @@
 # kfeed
-The app that enables you to track your walk with images.
+The MVVM app that enables you to track your walk with images.
 
 ![kfeed_screen](https://user-images.githubusercontent.com/229530/173307748-3a426c23-cf4c-4fa3-9b34-8f924c394fd7.jpg)
 
