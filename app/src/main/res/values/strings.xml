@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KFeed</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="launch_app">Launch app</string>
+    <string name="no_current_location">No current location</string>
+    <string name="turn_on_location">For right work of app you need to turn on location.</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality</string>
+    <string name="settings">Settings</string>
+    <string name="location">Location</string>
+    <string name="your_last_location">Your last location:</string>
+    <string name="click_on_start">Click on Start and go for a walk!</string>
+    <string name="tap_for_reload">Tap for reload photo</string>
+    <string name="not_found_photo">Sorry, we haven`t found photo by current location</string>
+    <string name="ok">OK</string>
+</resources>
